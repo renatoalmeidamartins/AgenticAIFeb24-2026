@@ -32,3 +32,6 @@
 - [Strands samples](https://github.com/strands-agents/samples)
 - [Community-based package of tools available for Strands](https://github.com/strands-agents/tools)
 - [Migrating Bedrock agents to agent core](https://github.com/aws/bedrock-agentcore-starter-toolkit/blob/main/documentation/docs/user-guide/import-agent/overview.md)
+- [Bedrock runtime examples uing the python SDK](https://docs.aws.amazon.com/code-library/latest/ug/python_3_bedrock-runtime_code_examples.html)
+- [Bedrock knowledge base](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
+- [AgentCore samples repo](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
