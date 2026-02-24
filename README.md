@@ -28,4 +28,6 @@
 - [Langchain agents](https://docs.langchain.com/oss/javascript/langchain/agents)
 - [Semantic Kernel overview](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Strands agents samples](https://github.com/strands-agents/samples?tab=readme-ov-file)
-- 
+- [Strands deep dive](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+- [Strands samples](https://github.com/strands-agents/samples)
+
