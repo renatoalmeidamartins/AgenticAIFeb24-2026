@@ -4,3 +4,8 @@
 
 - Main entry point is [https://myclass.skillbuilder.aws/](https://myclass.skillbuilder.aws/)
 - Full doc with support is [here](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
+
+
+## Class links
+- [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- 
