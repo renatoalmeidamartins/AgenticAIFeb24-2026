@@ -23,3 +23,9 @@
 - [Kiro documentation](https://kiro.dev/)
 - [Steering documents to give guidance about team standards to Kiro](https://kiro.dev/docs/steering/)
 - [Bedrock flows](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
+- [Strands overview](https://strandsagents.com/latest/documentation/docs/examples/)
+- [CrewAI overview](https://docs.crewai.com/en/guides/flows/first-flow)
+- [Langchain agents](https://docs.langchain.com/oss/javascript/langchain/agents)
+- [Semantic Kernel overview](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+- [Strands agents samples](https://github.com/strands-agents/samples?tab=readme-ov-file)
+- 
