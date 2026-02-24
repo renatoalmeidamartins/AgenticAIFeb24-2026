@@ -31,3 +31,4 @@
 - [Strands deep dive](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
 - [Strands samples](https://github.com/strands-agents/samples)
 - [Community-based package of tools available for Strands](https://github.com/strands-agents/tools)
+- [Migrating Bedrock agents to agent core](https://github.com/aws/bedrock-agentcore-starter-toolkit/blob/main/documentation/docs/user-guide/import-agent/overview.md)
