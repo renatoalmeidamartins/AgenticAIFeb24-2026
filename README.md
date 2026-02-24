@@ -21,3 +21,4 @@
 - [MCP Server list](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
 - [OWASP Top 10 for LLM](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
 - [Kiro documentation](https://kiro.dev/)
+- [Steering documents to give guidance about team standards to Kiro](https://kiro.dev/docs/steering/)
