@@ -19,3 +19,4 @@
 - [RAG - retrieval augmented generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [Model context protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [MCP Server list](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
+- [OWASP Top 10 for LLM](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
