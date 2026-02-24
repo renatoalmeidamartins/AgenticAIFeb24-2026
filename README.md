@@ -17,3 +17,5 @@
 - [COSTAR prompting framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Good prompt design](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [RAG - retrieval augmented generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [Model context protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [MCP Server list](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file)
