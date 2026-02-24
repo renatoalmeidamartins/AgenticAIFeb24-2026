@@ -8,4 +8,6 @@
 
 ## Class links
 - [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
-- 
+- [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Spatial transformer networks](https://arxiv.org/pdf/1506.02025)
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762)
