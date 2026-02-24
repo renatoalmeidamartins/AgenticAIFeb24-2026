@@ -40,3 +40,5 @@
 - [Bedrock knowledge base](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
 - [AgentCore samples repo](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
 - [Agentcore base documentation](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [A2A - agent 2 agent protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [A2A landing page](https://agent2agent.info/)
